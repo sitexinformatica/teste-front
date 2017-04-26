@@ -1,6 +1,6 @@
 # Briefing
 
-Criar um aplicação com duas páginas onde todos os dados deverão ser consumidos de uma API REST usando o Angular 2+.
+Criar uma aplicação com duas páginas onde todos os dados deverão ser consumidos de uma API REST usando o Angular 2+.
 A API que deverá ser utilizada é a https://randomuser.me/
 
 Abaixo as páginas a serem desenvolvidas:
